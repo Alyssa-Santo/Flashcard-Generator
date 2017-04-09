@@ -1,0 +1,1 @@
+{"front":"What color is the sky?","back":"blue","type":"basic"};{"front":"what color is your hair","back":"green","type":"basic"};{"front":"what color it grass?","back":"green","type":"basic"};{"type":"basic"};{"text":"Today is Saturday","cloze":"Saturday","partial":"Today is ...","type":"cloze"};
